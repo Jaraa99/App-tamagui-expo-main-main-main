@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "tamagui-app",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#4E5054",
+      "image": "./assets/dead.png",
+      "resizeMode": "contain"
+    },
+    "icon": "./assets/icon.png",
+    "name": "tamagui-app",
+    "slug": "tamagui-app"
+  }
+}
